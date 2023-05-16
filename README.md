@@ -1,6 +1,6 @@
 # utp
 
-A new Flutter project.
+Jangan Lupa untuk Menyesuaikan Versi Flutter kalian
 
 ## Getting Started
 
